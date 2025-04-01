@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-viveksaichinna/output/task1/part-00000-92f15ef2-a757-4c26-9700-4b14c1ee521a-c000.csv","size":124,"isDir":false,"modificationTime":1743529003489,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-viveksaichinna/output/task1/part-00001-4eb18eed-f315-4ab3-95f2-072c8d52fbf7-c000.csv","size":124,"isDir":false,"modificationTime":1743529003503,"blockReplication":1,"blockSize":33554432,"action":"add"}
